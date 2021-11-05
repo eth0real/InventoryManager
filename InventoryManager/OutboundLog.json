@@ -1,0 +1,16 @@
+[
+  {
+    "Date": "2021-10-05T09:35:10.1696542-06:00",
+    "Orders": {
+      "Bear's Head": 2,
+      "Black Pearl King": 5
+    }
+  },
+  {
+    "Date": "2021-10-04T09:35:10.1696542-06:00",
+    "Orders": {
+      "Bear's Head": 3,
+      "Black Pearl King": 1
+    }
+  }
+]

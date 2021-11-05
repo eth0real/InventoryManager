@@ -1,0 +1,9 @@
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\Program.cs
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\config.json
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\Inventory.json
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\InventoryManager.exe
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\InventoryManager.dll
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\InventoryManager.deps.json
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\InventoryManager.runtimeconfig.json
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\InventoryManager.pdb
+C:\Users\scott.bushman\Desktop\InventoryManager\InventoryManager\bin\Release\net5.0\publish\Newtonsoft.Json.dll
